@@ -1,2 +1,2 @@
-# Bootcamp-kurs
+# Bootcamp
 Домашние задания
